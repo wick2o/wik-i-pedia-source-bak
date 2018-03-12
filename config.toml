@@ -1,0 +1,54 @@
+baseURL = "http://wik-i-pedia.com/"
+languageCode = "en-us"
+title = "wik-i-pedia"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  #subtitle = "subtitle"
+  #logo = ""
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  useHLJS = true
+
+[Author]
+  name = "Jaime 'WiK' Filson"
+  website = "wik-i-pedia.com"
+  email = "wick2o@gmail.com"
+  facebook = "jaime.filson"
+  github = "wick2o"
+  twitter = "jaimefilson"
+  linkedin = "jfilson"
+  paypal = "wick2o"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Presentations"
+    url = "page/presentations/"
+    weight = 3
+
+[[menu.main]]
+    name = "Résumé"
+    url = "page/resume/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
