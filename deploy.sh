@@ -22,3 +22,11 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+#Update the main repo
+git add --all .
+
+#Comment to the repo
+git commit -m "$msg"
+
+git push
