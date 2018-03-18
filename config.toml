@@ -7,10 +7,12 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+googleAnalytics = "UA-42229896-1"
 
 [Params]
   #subtitle = "subtitle"
-  #logo = ""
+  logo = "img/logo.png"
+  favicon = "img/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true

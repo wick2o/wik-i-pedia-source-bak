@@ -1,16 +1,13 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: TBD
 comments: false
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
+If you wish to support this blog, please consider clicking start for a little bit. Thanks!
+<div class="coinhive-miner"
+        style="width: 100%; height: 80px"
+        data-key="rlMqiCnawfSRR2AxXIx6SbvCaXyvJKT0"
+        data-whitelabel=true>
+        <em>Loading...</em>
+</div>

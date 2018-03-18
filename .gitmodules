@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:wick2o/wick2o.github.io.git
+	branch = master
