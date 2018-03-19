@@ -12,7 +12,7 @@ This year at DEFCON I thought I would try my hand at the Social Engineering CTF.
 
 I was accepted so I wanted to share my video.
 
-{{< youtube 9mOMkUpqry8 >}}
+<br>{{< youtube 9mOMkUpqry8 >}}<br>
 
 Enjoy! 
 
